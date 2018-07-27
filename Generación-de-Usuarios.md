@@ -7,3 +7,4 @@ Pero primero debemos hacer [login](https://pwa.bedu.org/admin/login/?next=/admin
 Una vez ya dentro de la aplicación, usted debería de ver un panel como el que se muestra a continuación:
 
 [![Sitio_administrativo_Bedu_LMS.png](https://s33.postimg.cc/x1qcz7ou7/Sitio_administrativo_Bedu_LMS.png)](https://postimg.cc/image/d74bd39mj/)
+
