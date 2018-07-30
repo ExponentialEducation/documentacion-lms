@@ -23,3 +23,18 @@ En ésta vista llene los campos que se requieren:
 **Siempre que termine de editar una sección se recomienda dar click en** [![Guardar_y_continuar_Bedu_LMS.png](https://s33.postimg.cc/ar5pr3mrj/Guardar_y_continuar_Bedu_LMS.png)](https://postimg.cc/image/xsmawumez/)
 
 [![An_adir_usuario_Gneral_Bedu_LMS.png](https://s33.postimg.cc/pbmslohnj/An_adir_usuario_Gneral_Bedu_LMS.png)](https://postimg.cc/image/rsyjsy1jv/)
+
+## PROFILE OBJECT (NONE)
+
+De igual manera llene los campos requeridos en ésta vista:
+
+1. Gender 
+2. Birth date
+3. Phone1
+4. Phone2
+5. Address1
+6. Address2
+5. State
+6. City
+
+[![An_adir_usuario_Profile_Bedu_LMS.png](https://s33.postimg.cc/3rrnrp4sv/An_adir_usuario_Profile_Bedu_LMS.png)](https://postimg.cc/image/tak04pocr/)
