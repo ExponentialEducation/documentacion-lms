@@ -1,4 +1,4 @@
-¡Bienvenid@!, en ésta pequeña wiki nuestra metas es dar una pequeña pero detallada documentación sobre cómo funciona el **Bedu LMS.** Los tópicos que vamos a cubrir se encuentran enlistados a continuación, haz click en uno de los elementos para ver la descripción completa. 
+¡Bienvenid@!, en ésta pequeña wiki nuestra meta es dar una pequeña pero detallada documentación sobre cómo funciona el **Bedu LMS.** Los tópicos que vamos a cubrir se encuentran listados a continuación, haz click en uno de los elementos para ver la descripción completa. 
 ***
 
 1. [Generación de Usuarios](https://github.com/ExponentialEducation/bedu_lms/wiki/Generaci%C3%B3n-de-Usuarios)
