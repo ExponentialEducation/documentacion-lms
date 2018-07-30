@@ -19,3 +19,7 @@ En ésta vista llene los campos que se requieren:
 1. Nombre de usuario (Team Bedu recomienda que este campo se llene con el correo del usuario)
 2. Contraseña (Team Bedu recomienda que se generen las contraseñas con [Strong Password Generator](https://strongpasswordgenerator.com/))
 3. Confirme contraseña
+
+**Siempre que termine de editar una sección se recomienda dar click en** [![Guardar_y_continuar_Bedu_LMS.png](https://s33.postimg.cc/ar5pr3mrj/Guardar_y_continuar_Bedu_LMS.png)](https://postimg.cc/image/xsmawumez/)
+
+[![An_adir_usuario_Gneral_Bedu_LMS.png](https://s33.postimg.cc/pbmslohnj/An_adir_usuario_Gneral_Bedu_LMS.png)](https://postimg.cc/image/rsyjsy1jv/)
