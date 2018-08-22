@@ -1,8 +1,9 @@
 Una vez creados los **Usuarios** podremos suscribirlos a los **Programas**, pero primero debemos seguir una serie de paso para lograr esto.
 
-## GENERAL
 
 1. Debemos crear una **Generación**. En la barra lateral de navegación encontrará el bloque que dice **SUBSCRIPTIONS**. Dentro de esta sección encontrara una interfaz similar cuando creamos un **Usuario**. De click en [![An_adir_generacion_Bedu_LMS.png](https://s33.postimg.cc/bqoxy6yrz/An_adir_generacion_Bedu_LMS.png)](https://postimg.cc/image/pkdan8rd7/)
+
+## GENERAL
 2. Dentro del panel de **Añadir Generation** verá distintos campos como los que se muestran a continuación:
 
 [![GENERAL_An_adir_Generation_Bedu_LMS.png](https://s33.postimg.cc/dz34f336n/GENERAL_An_adir_Generation_Bedu_LMS.png)](https://postimg.cc/image/kpjloiqcb/)
