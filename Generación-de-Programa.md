@@ -14,7 +14,7 @@ En ésta sección veremos cómo crear un **Programa**, que es una de las piezas 
 
 ## OTHER OPTIONS
 
-4. La casilla que aparece en ésta pestaña deve de estar activada (*Active*) Esto con el fin de que el **Programa** en cuestion está activo.
+4. La casilla que aparece en ésta pestaña deve de estar activada (*Active*) Esto con el fin de que el **Programa** en cuestion esté activo.
 
 ## OTHER INFO (OPCIONAL)
 
