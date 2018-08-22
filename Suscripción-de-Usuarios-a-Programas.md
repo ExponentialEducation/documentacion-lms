@@ -6,11 +6,12 @@ Una vez creados los **Usuarios** podremos suscribirlos a los **Programas**, pero
 2. Dentro del panel de **Añadir Generation** verá distintos campos como los que se muestran a continuación:
 
 [![GENERAL_An_adir_Generation_Bedu_LMS.png](https://s33.postimg.cc/dz34f336n/GENERAL_An_adir_Generation_Bedu_LMS.png)](https://postimg.cc/image/kpjloiqcb/)
-    - Mnemonic: (Representa un mnemónico que **operaciones** dará para identificar a la generación)
-    - Program: (Representa a qué [Programa]() pertenece dicha **Generación**)
-    - Course: (Representa a qué [Curso]() está suscrito dicha **Generación**)
-    - Start date: (Cuándo inicia dicha **Generacaión**)
-    - End date: (Cuándo termina dicha **Generación**)
+
+  - Mnemonic: (Representa un mnemónico que **operaciones** dará para identificar a la generación)
+  - Program: (Representa a qué [Programa]() pertenece dicha **Generación**)
+  - Course: (Representa a qué [Curso]() está suscrito dicha **Generación**)
+  - Start date: (Cuándo inicia dicha **Generacaión**)
+  - End date: (Cuándo termina dicha **Generación**)
 
 ## SUBSCRIPTIONS
 
