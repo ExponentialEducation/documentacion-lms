@@ -9,8 +9,8 @@ Una vez creados los **Usuarios** podremos suscribirlos a los **Programas**, pero
 [![GENERAL_An_adir_Generation_Bedu_LMS.png](https://s33.postimg.cc/dz34f336n/GENERAL_An_adir_Generation_Bedu_LMS.png)](https://postimg.cc/image/kpjloiqcb/)
 
   - Mnemonic: (Representa un mnemónico que **operaciones** dará para identificar a la generación)
-  - Program: (Representa a qué [Programa]() pertenece dicha **Generación**)
-  - Course: (Representa a qué [Curso]() está suscrito dicha **Generación**)
+  - Program: (Representa a qué [Programa](https://github.com/ExponentialEducation/bedu_lms/wiki/Generaci%C3%B3n-de-Programa) pertenece dicha **Generación**)
+  - Course: (Representa a qué [Curso](https://github.com/ExponentialEducation/bedu_lms/wiki/Generaci%C3%B3n-de-Cursos) está suscrito dicha **Generación**)
   - Start date: (Cuándo inicia dicha **Generacaión**)
   - End date: (Cuándo termina dicha **Generación**)
 

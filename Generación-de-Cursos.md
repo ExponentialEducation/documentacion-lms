@@ -1,4 +1,4 @@
-Una vez creado un **Programa**, aprenderemos a crear un **Curso**, que se compone de distintas unidades como:
+Una vez creado un [Programa](https://github.com/ExponentialEducation/bedu_lms/wiki/Generaci%C3%B3n-de-Programa), aprenderemos a crear un **Curso**, que se compone de distintas unidades como:
 - **Tracks**
 - **Track Associations**
 - **Track Sessions**
