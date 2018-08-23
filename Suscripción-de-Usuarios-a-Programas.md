@@ -19,3 +19,5 @@ Una vez creados los **Usuarios** podremos suscribirlos a los **Programas**, pero
 3. Dentro de la pestaña **SUBSCRIPTIONS** es donde daremos de alta a los **Usuarios** que forman parte de una **Generación**. Da click **Agregar Subscription adicional**:
 
 [![Add-user_Modificar_Generation_Bedu_LMS.png](https://s33.postimg.cc/lvnlnnmgf/Add-user_Modificar_Generation_Bedu_LMS.png)](https://postimg.cc/image/ic1nxujqj/)
+
+**Siempre que termine de editar una sección se recomienda dar click en** [![Guardar_y_continuar_Bedu_LMS.png](https://s33.postimg.cc/ar5pr3mrj/Guardar_y_continuar_Bedu_LMS.png)](https://postimg.cc/image/xsmawumez/)

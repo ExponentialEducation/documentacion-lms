@@ -19,3 +19,5 @@ En ésta sección veremos cómo crear un **Programa**, que es una de las piezas 
 ## OTHER INFO (OPCIONAL)
 
 En ésta pestaña se muestra cuándo se creó y se modificó el **Programa**
+
+**Siempre que termine de editar una sección se recomienda dar click en** [![Guardar_y_continuar_Bedu_LMS.png](https://s33.postimg.cc/ar5pr3mrj/Guardar_y_continuar_Bedu_LMS.png)](https://postimg.cc/image/xsmawumez/)

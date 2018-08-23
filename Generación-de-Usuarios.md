@@ -38,3 +38,5 @@ De igual manera llene los campos requeridos en ésta vista:
 6. City
 
 [![An_adir_usuario_Profile_Bedu_LMS.png](https://s33.postimg.cc/3rrnrp4sv/An_adir_usuario_Profile_Bedu_LMS.png)](https://postimg.cc/image/tak04pocr/)
+
+**Siempre que termine de editar una sección se recomienda dar click en** [![Guardar_y_continuar_Bedu_LMS.png](https://s33.postimg.cc/ar5pr3mrj/Guardar_y_continuar_Bedu_LMS.png)](https://postimg.cc/image/xsmawumez/)

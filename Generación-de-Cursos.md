@@ -49,3 +49,5 @@ El código que se ve en el recuadro rojo es la nomenclatura del **TRACK SESSIONS
   - FSJS: Full Stack Javascript
   - T01: Track 01 (Módulo)
   - S01: Session 01 (Clase)
+
+**Siempre que termine de editar una sección se recomienda dar click en** [![Guardar_y_continuar_Bedu_LMS.png](https://s33.postimg.cc/ar5pr3mrj/Guardar_y_continuar_Bedu_LMS.png)](https://postimg.cc/image/xsmawumez/)
