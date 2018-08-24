@@ -6,4 +6,4 @@
 3. [Generación de Eventos en el Schedule](https://github.com/ExponentialEducation/bedu_lms/wiki/Generaci%C3%B3n-de-Eventos-en-el-Schedule)
 4. [Generación de Programa](https://github.com/ExponentialEducation/bedu_lms/wiki/Generaci%C3%B3n-de-Programa)
 5. [Generación de Cursos](https://github.com/ExponentialEducation/bedu_lms/wiki/Generaci%C3%B3n-de-Cursos)
-6. [Generación de Session Parts]()
+6. [Generación de Session Parts](https://github.com/ExponentialEducation/bedu_lms/wiki/Generaci%C3%B3n-de-Session-Parts)
