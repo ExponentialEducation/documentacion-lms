@@ -1,4 +1,4 @@
-Los **Session Parts** son los contenidos de los **Track Sessions** que acabamos de generar. En ésta parte revisarmos cómo subir el contenido para cada una de las partes. 
+Los **Session Parts** son los contenidos de los [**Track Sessions**](https://github.com/ExponentialEducation/bedu_lms/wiki/Generaci%C3%B3n-de-Cursos) que acabamos de generar. En ésta parte revisarmos cómo subir el contenido para cada una de las partes. 
 
 1. En la barra lateral de navegación en el apartado **COURSES** de click en **Track sessions**.
 
