@@ -26,11 +26,11 @@ En ésta sección aprenderemos a crear lo enlistado para poder armar un **Curso*
 
 5. Para asociar los **Tracks** a nuestro **Curso**, lo primero que tenemos que hacer es tener contenidos que asociar. Para esto primero tenemos que empezar por crear un **Track** con sus sesiones **(Track Sessions)** 
 
-- Da click en la lupa para empezar:
+- De click en la lupa para empezar:
 
 [![Add_trackassocia_Bedu_LMS.png](https://s33.postimg.cc/5vs31drrz/Add_trackassocia_Bedu_LMS.png)](https://postimg.cc/image/jcp1k923f/)
 
-- Da click en [![Add_track_button_Bedu_LMS.png](https://s33.postimg.cc/n822xooof/Add_track_button_Bedu_LMS.png)](https://postimg.cc/image/9r54etecr/) para crear un **Track**
+- De click en [![Add_track_button_Bedu_LMS.png](https://s33.postimg.cc/n822xooof/Add_track_button_Bedu_LMS.png)](https://postimg.cc/image/9r54etecr/) para crear un **Track**
 - Dentro de la vista llene los campos como se muestra a continuación **(Ejemplo):**
 
 ### GENERAL

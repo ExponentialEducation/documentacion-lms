@@ -1,7 +1,7 @@
-Una vez creados los **Usuarios** podremos suscribirlos a los **Programas**, pero primero debemos seguir una serie de paso para lograr esto.
+Una vez creados los [**Usuarios**](https://github.com/ExponentialEducation/bedu_lms/wiki/Generaci%C3%B3n-de-Usuarios) podremos suscribirlos a los **Programas**, pero primero debemos seguir una serie de paso para lograr esto.
 
 
-1. Debemos crear una **Generación**. En la barra lateral de navegación encontrará el bloque que dice **SUBSCRIPTIONS**. Dentro de esta sección encontrara una interfaz similar cuando creamos un **Usuario**. De click en [![An_adir_generacion_Bedu_LMS.png](https://s33.postimg.cc/bqoxy6yrz/An_adir_generacion_Bedu_LMS.png)](https://postimg.cc/image/pkdan8rd7/)
+1. Debemos crear una **Generación**. En la barra lateral de navegación encontrará el bloque que dice **SUBSCRIPTIONS**, de click en **Generations**. Dentro de esta sección encontrara una interfaz similar cuando creamos un **Usuario**. De click en [![An_adir_generacion_Bedu_LMS.png](https://s33.postimg.cc/bqoxy6yrz/An_adir_generacion_Bedu_LMS.png)](https://postimg.cc/image/pkdan8rd7/)
 
 ## GENERAL
 2. Dentro del panel de **Añadir Generation** verá distintos campos como los que se muestran a continuación:
@@ -16,7 +16,7 @@ Una vez creados los **Usuarios** podremos suscribirlos a los **Programas**, pero
 
 ## SUBSCRIPTIONS
 
-3. Dentro de la pestaña **SUBSCRIPTIONS** es donde daremos de alta a los **Usuarios** que forman parte de una **Generación**. Da click **Agregar Subscription adicional**:
+3. Dentro de la pestaña **SUBSCRIPTIONS** es donde daremos de alta a los **Usuarios** que forman parte de una **Generación**. Da click **Agregar Subscription adicional** para agrear a un nuevo **Usuario**. De click en la lupa para buscar al **Usuario** que quiere dar de alta:
 
 [![Add-user_Modificar_Generation_Bedu_LMS.png](https://s33.postimg.cc/lvnlnnmgf/Add-user_Modificar_Generation_Bedu_LMS.png)](https://postimg.cc/image/ic1nxujqj/)
 
